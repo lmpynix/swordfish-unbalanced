@@ -1,0 +1,4 @@
+#Mon Dec 16 23:27:24 CST 2019
+Clouds=0
+customStars=false
+defskybox=true

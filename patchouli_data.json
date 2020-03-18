@@ -1,0 +1,71 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "pneumaticcraft:book": {
+      "viewedEntries": [
+        "pneumaticcraft:base_concepts/heat",
+        "pneumaticcraft:programming/area",
+        "pneumaticcraft:programming/tutorial_1",
+        "pneumaticcraft:programming/suicide",
+        "pneumaticcraft:programming/standby",
+        "pneumaticcraft:programming/teleport",
+        "pneumaticcraft:programming/external_program",
+        "pneumaticcraft:programming/entity_export",
+        "pneumaticcraft:programming/entity_import",
+        "pneumaticcraft:programming/puzzle_pieces",
+        "pneumaticcraft:programming/logistics",
+        "pneumaticcraft:programming/place",
+        "pneumaticcraft:programming/drone_condition_entity",
+        "pneumaticcraft:programming/condition_entity",
+        "pneumaticcraft:programming/conditions",
+        "pneumaticcraft:programming/flow_control",
+        "pneumaticcraft:machines/charging_station",
+        "pneumaticcraft:programming/condition_pressure",
+        "pneumaticcraft:programming/drone_condition_pressure",
+        "pneumaticcraft:programming/condition_redstone",
+        "pneumaticcraft:base_concepts/entity_filter",
+        "pneumaticcraft:programming/coordinate_operator",
+        "pneumaticcraft:programming/variables",
+        "pneumaticcraft:programming/coordinate",
+        "pneumaticcraft:programming/entity_right_click",
+        "pneumaticcraft:programming/programmable_controller"
+      ],
+      "bookmarks": [],
+      "history": [
+        "pneumaticcraft:programming/programmable_controller",
+        "pneumaticcraft:programming/conditions",
+        "pneumaticcraft:programming/drone_condition_entity",
+        "pneumaticcraft:programming/coordinate_operator",
+        "pneumaticcraft:programming/entity_right_click",
+        "pneumaticcraft:programming/coordinate",
+        "pneumaticcraft:programming/variables",
+        "pneumaticcraft:base_concepts/entity_filter",
+        "pneumaticcraft:programming/standby",
+        "pneumaticcraft:programming/condition_redstone",
+        "pneumaticcraft:programming/drone_condition_pressure",
+        "pneumaticcraft:programming/condition_pressure",
+        "pneumaticcraft:machines/charging_station"
+      ],
+      "completedManualQuests": []
+    },
+    "mysticalworld:world_guide": {
+      "viewedEntries": [
+        "mysticalworld:creatures/deer",
+        "mysticalworld:creatures/owl",
+        "mysticalworld:creatures/frog",
+        "mysticalworld:creatures/fox",
+        "mysticalworld:cuisine/venison"
+      ],
+      "bookmarks": [],
+      "history": [
+        "mysticalworld:cuisine/venison",
+        "mysticalworld:creatures/fox",
+        "mysticalworld:creatures/frog",
+        "mysticalworld:creatures/owl",
+        "mysticalworld:creatures/deer"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
