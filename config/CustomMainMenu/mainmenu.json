@@ -3,7 +3,7 @@
     {
 		"black":
         {
-            "image" : "mainmenu:textures/bg_menu_new.png",
+            "image" : "mainmenu:textures/bg_menu.png",
             "posX" : 95,
             "posY" : -80,
             "width" : 200,
@@ -183,7 +183,7 @@
     {
 		"background":
 		{
-			"image" : "mainmenu:textures/bg.png",
+			"image" : "mainmenu:textures/bg_new.png",
 			"mode" : "stretch"
 		}
     }
